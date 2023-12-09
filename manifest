@@ -62,14 +62,22 @@ export PACKAGES="\
 	intel-ucode \
 	intel-undervolt \
 	less \
+	lib32-acl \
 	lib32-curl \
 	lib32-fontconfig \
 	lib32-freetype2 \
 	lib32-gamemode \
+	lib32-gettext \
 	lib32-libgpg-error \
+	lib32-libnl \
 	lib32-libnm \
-	lib32-libxinerama \
+	lib32-libpcap \
+	lib32-libxcursor \
 	lib32-libxcrypt-compat \
+	lib32-libxinerama \
+	lib32-libxi \
+	lib32-libxrandr \
+	lib32-libxrender \
 	lib32-libva \
 	lib32-libva-intel-driver \
 	lib32-libva-vdpau-driver \
@@ -145,6 +153,9 @@ export PACKAGES="\
 	wavpack \
 	wget \
 	which \
+	wine \
+	wine-gecko \
+	wine-mono \
 	wireplumber \
 	wqy-zenhei \
 	xdg-desktop-portal \
